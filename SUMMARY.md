@@ -76,7 +76,6 @@
 * [Change log](technical-pipeline/change-log.md)
 * [Technical notes](technical-pipeline/technical-notes.md)
 * [Data model](technical-pipeline/data-model.md)
-* [Test page \(content redirect\)](technical-pipeline/test-page-content-redirect.md)
 
 ## Outreach
 
