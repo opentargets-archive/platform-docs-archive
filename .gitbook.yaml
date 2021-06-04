@@ -1,2 +1,3 @@
-redirects:  
-    /*: ./readme.md 301
+redirects:
+    /faq/clinical-trials: ./README.md
+    /*: ./README.md
