@@ -1,3 +1,2 @@
 redirects:
     faq/clinical-trials: ./README.md
-    *: ./README.md
